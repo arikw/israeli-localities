@@ -213,23 +213,5 @@ async function parseRawExcelFile(excelFileData, sheets) {
     }
   }
 
-  // const sheetNames = (await readSheetNames(excelFileData));
-  // console.log(`Parsing file ${excelFileData}...`);
-  // const result = {};
-  // for (const sheetName of sheetNames) {
-  //   console.log(`  Parsing sheet "${sheetName.trim()}"...`);
-  //   const sheetOptions = sheets?.[sheetName.trim()];
-  //   const parsedXml = await readXlsxFile(excelFileData, {
-  //     sheet: sheetName,
-  //     map: sheetOptions?.map,
-  //     transformData: rows => transformExcelRows(rows, sheetOptions)
-  //   });
-  //   const rows = parsedXml?.rows ?? parsedXml;
-  //   const errors = parsedXml?.errors;
-  //   if (errors?.length) {
-  //     console.error(errors);
-  //   }
-  //   result[sheetName.trim()] = rows;
-  // }
   return result;
 }

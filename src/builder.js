@@ -19,7 +19,6 @@ function getLocalityMergers(localityChanges) {
   const mergersAndSplits = localityChanges
     .filter(c => ['פירוק איחוד', 'אוחד', 'אוחד עם עוד יישובים', 'פיצול איחוד'].includes(c.type))
     .map(c => (c.type = (c.type.includes('אוחד') ? 'איחוד' : 'פיצול'), c))
-    // .filter(c => c.yearOfChange > 2000)
     .map(c => (c.localityId = parseInt(c.localityId), c))
     .map(c => (c.previousLocalityId = parseInt(c.previousLocalityId), c))
     .map(c => (c.yearOfChange = parseInt(c.yearOfChange), c))
@@ -140,61 +139,6 @@ async function createFinalFiles({ localities: allLocalities, localityCodes, loca
         wgs84: { latitude: Math.round(latitude * 1e5) / 1e5, longitude: Math.round(longitude * 1e5) / 1e5 }
       };
     }
-
-    // const alternativeNames = [];
-    // if (
-    //   (locality.typeOfLocality?.group === 'יישוב עירוני') &&
-    //  (
-    //    ((locality.name.split('-').length - 1) > 1) || // has more then one hyphen
-    //    (locality.name.includes(' ') && ((locality.name.split('-').length - 1) === 1))
-    //  ) &&
-    //  !locality.name.includes(' אל-') &&
-    //  !locality.name.includes(' א-')
-    // ) {
-    //   alternativeNames.push(...locality.name.split('-').map(n => n.trim()));
-    //   alternativeNames.push(locality.name.replace(/\s*-\s*/g, ' ').trim());
-    // }
-    // if ((parsedData.map(l => l.name)).some(r => alternativeNames.includes(r))) {
-    //   console.log(`skipping ${alternativeNames.join(',')}`);
-    // }
-    
-    // if (
-    //   locality.name.split('(')[0].includes('יי') &&
-    //   !locality.name.includes('"') &&
-    //   !locality.name.includes('חיים')
-    // ) {
-    //   alternativeNames.push(locality.name.replace(/יי/g, 'י'));
-    // }
-
-    // if (alternativeNames.length > 0) {
-    //   alternativeNames.push(...alternativeNames.filter(n => n.includes('יי')).map(n => n.replace(/יי/g, 'י')));
-    // }
-
-    // if ((locality.typeOfLocality.form === 'קיבוצים')) {
-    //   alternativeNames.push(`קיבוץ ${locality.name.replace('(קיבוץ)', '').trim()}`);
-    // }
-    
-    // if ((locality.typeOfLocality.form === 'מושבים') && !locality.name.includes('מושבה')) {
-    //   alternativeNames.push(`מושב ${locality.name.replace('(מושב)', '').trim()}`);
-    // }
-
-    // // add alternative names only if doesn't collide with other locality names or alternative names
-    // if (alternativeNames.length > 0) {
-    //   const localityWithSameAltNames = parsedData
-    //     .filter(loc => loc.alternativeNames)
-    //     .find(loc => loc.alternativeNames.some(r => alternativeNames.includes(r)));
-    //   if (localityWithSameAltNames) {
-    //     // remove the alternative names
-    //     delete localityWithSameAltNames.alternativeNames;
-    //     console.log(`skipping2 ${alternativeNames.join(',')}`);
-    //   } else {
-    //     // add alternative names
-    //     locality.alternativeNames = alternativeNames;
-    //   }
-    //   locality.alternativeNames = alternativeNames;
-    // }
-    // if (locality.name.replace(/יי/g, 'י') !== locality.name) { alternativeNames.push(); }
-
   }
 
   // create dist folder  
@@ -230,9 +174,6 @@ export default async function buildData() {
       console.log(`Got ${Object.keys(data).length} sheet(s) for "${descriptor.name}"`);
     }
   }
-  // const getDescriptor = name => descriptors.find(d => (d.name === name));
-  // const localityCodes = await fetchRemoteData(getDescriptor('localityCodes'));
-  // console.log(`Got ${Object.keys(localityCodes).length} sheet(s)`);
 
   await createFinalFiles(files);
 }
