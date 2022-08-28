@@ -78,9 +78,9 @@ export function writeCsvFile(csvFilename, items) {
   // https://stackoverflow.com/questions/45232464/node-js-generated-csv-file-is-displaying
   writeFileSync(csvFilename, '\ufeff' + [
     headersRow.join(','),
-    ...csvRows.map(r => r.join(',')),
-    { encoding: 'utf8' }
-  ].join('\r\n'));
+    ...csvRows.map(r => r.join(','))
+  ].join('\r\n'),
+  { encoding: 'utf8' });
 }
 
 
