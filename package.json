@@ -1,0 +1,34 @@
+{
+  "name": "israeli-localities",
+  "version": "1.0.0",
+  "description": "Israeli localities data",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arikw/israeli-localities.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arikw/israeli-localities/issues"
+  },
+  "homepage": "https://github.com/arikw/israeli-localities#readme",
+  "keywords": [
+    "israel",
+    "localities",
+    "wgs84",
+    "itm",
+    "json",
+    "csv"
+  ],
+  "author": "Arik W",
+  "devDependencies": {
+    "itm-to-wgs84-converter": "^1.0.5",
+    "js-yaml": "^4.1.0",
+    "node-fetch": "^3.2.10",
+    "read-excel-file": "^5.4.5"
+  },
+  "dependencies": {}
+}
