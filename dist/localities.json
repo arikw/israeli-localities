@@ -1523,6 +1523,45 @@
 		}
 	},
 	{
+		"id": 1771,
+		"name": "אורון",
+		"district": {
+			"id": 6,
+			"name": "הדרום"
+		},
+		"subDistrict": {
+			"id": 62,
+			"name": "באר שבע"
+		},
+		"municipalStatus": {
+			"id": 48,
+			"name": "מועצה אזורית רמת נגב"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 201440,
+				"north": 535570
+			},
+			"wgs84": {
+				"latitude": 30.91091,
+				"longitude": 35.01604
+			}
+		},
+		"naturalRegion": {
+			"id": 626,
+			"name": "הר הנגב הצפוני"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 610,
+			"name": "אשכול רשויות נגב מזרחי"
+		}
+	},
+	{
 		"id": 2012,
 		"name": "אורות",
 		"nameEn": "Orot",
@@ -1799,6 +1838,123 @@
 			"id": 170,
 			"group": "יישוב עירוני",
 			"form": "יישובים יהודיים 19,999-10,000 תושבים"
+		}
+	},
+	{
+		"id": 1724,
+		"name": "אזור תעסוקה משגב(תרדיון)",
+		"district": {
+			"id": 2,
+			"name": "הצפון"
+		},
+		"subDistrict": {
+			"id": 24,
+			"name": "עכו"
+		},
+		"municipalStatus": {
+			"id": 56,
+			"name": "מועצה אזורית משגב"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 225870,
+				"north": 752550
+			},
+			"wgs84": {
+				"latitude": 32.86781,
+				"longitude": 35.27304
+			}
+		},
+		"naturalRegion": {
+			"id": 241,
+			"name": "אזור שפרעם"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 210,
+			"name": "אשכול רשויות בית הכרם הגלילי"
+		}
+	},
+	{
+		"id": 1726,
+		"name": "אזור תעשייה אכזיב (מילואות)",
+		"district": {
+			"id": 2,
+			"name": "הצפון"
+		},
+		"subDistrict": {
+			"id": 24,
+			"name": "עכו"
+		},
+		"municipalStatus": {
+			"id": 4,
+			"name": "מועצה אזורית מטה אשר"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 210520,
+				"north": 774640
+			},
+			"wgs84": {
+				"latitude": 33.06698,
+				"longitude": 35.10882
+			}
+		},
+		"naturalRegion": {
+			"id": 245,
+			"name": "אזור נהריה"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 212,
+			"name": "אשכול רשויות גליל מערבי"
+		}
+	},
+	{
+		"id": 1727,
+		"name": "אזור תעשייה נעמן (מילואות)",
+		"district": {
+			"id": 2,
+			"name": "הצפון"
+		},
+		"subDistrict": {
+			"id": 24,
+			"name": "עכו"
+		},
+		"municipalStatus": {
+			"id": 4,
+			"name": "מועצה אזורית מטה אשר"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 209140,
+				"north": 754120
+			},
+			"wgs84": {
+				"latitude": 32.88194,
+				"longitude": 35.09427
+			}
+		},
+		"naturalRegion": {
+			"id": 246,
+			"name": "אזור עכו"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 212,
+			"name": "אשכול רשויות גליל מערבי"
 		}
 	},
 	{
@@ -2234,6 +2390,45 @@
 		"localAuthoritiesCluster": {
 			"id": 212,
 			"name": "אשכול רשויות גליל מערבי"
+		}
+	},
+	{
+		"id": 1716,
+		"name": "אילון תבור",
+		"district": {
+			"id": 2,
+			"name": "הצפון"
+		},
+		"subDistrict": {
+			"id": 23,
+			"name": "יזרעאל"
+		},
+		"municipalStatus": {
+			"id": 9,
+			"name": "מועצה אזורית עמק יזרעאל"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 234320,
+				"north": 726750
+			},
+			"wgs84": {
+				"latitude": 32.63509,
+				"longitude": 35.36291
+			}
+		},
+		"naturalRegion": {
+			"id": 233,
+			"name": "רמת כוכב"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 213,
+			"name": "אשכול רשויות הגליל והעמקים"
 		}
 	},
 	{
@@ -5364,6 +5559,45 @@
 		}
 	},
 	{
+		"id": 1725,
+		"name": "בי\"ס אזורי מקיף (אשר)",
+		"district": {
+			"id": 2,
+			"name": "הצפון"
+		},
+		"subDistrict": {
+			"id": 24,
+			"name": "עכו"
+		},
+		"municipalStatus": {
+			"id": 4,
+			"name": "מועצה אזורית מטה אשר"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 214420,
+				"north": 768290
+			},
+			"wgs84": {
+				"latitude": 33.00975,
+				"longitude": 35.15061
+			}
+		},
+		"naturalRegion": {
+			"id": 245,
+			"name": "אזור נהריה"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 212,
+			"name": "אשכול רשויות גליל מערבי"
+		}
+	},
+	{
 		"id": 234,
 		"name": "ביצרון",
 		"nameEn": "Bizzaron",
@@ -6277,6 +6511,45 @@
 			"id": 330,
 			"group": "יישוב כפרי",
 			"form": "קיבוצים"
+		},
+		"localAuthoritiesCluster": {
+			"id": 214,
+			"name": "אשכול רשויות הכנרת והעמקים"
+		}
+	},
+	{
+		"id": 1712,
+		"name": "בית חולים פוריה",
+		"district": {
+			"id": 2,
+			"name": "הצפון"
+		},
+		"subDistrict": {
+			"id": 22,
+			"name": "כנרת"
+		},
+		"municipalStatus": {
+			"id": 6,
+			"name": "מועצה אזורית עמק הירדן"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 250940,
+				"north": 739840
+			},
+			"wgs84": {
+				"latitude": 32.75278,
+				"longitude": 35.54046
+			}
+		},
+		"naturalRegion": {
+			"id": 221,
+			"name": "כנרות"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
 		},
 		"localAuthoritiesCluster": {
 			"id": 214,
@@ -8395,6 +8668,45 @@
 		}
 	},
 	{
+		"id": 1728,
+		"name": "בר-לב",
+		"district": {
+			"id": 2,
+			"name": "הצפון"
+		},
+		"subDistrict": {
+			"id": 24,
+			"name": "עכו"
+		},
+		"municipalStatus": {
+			"id": 4,
+			"name": "מועצה אזורית מטה אשר"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 217910,
+				"north": 756890
+			},
+			"wgs84": {
+				"latitude": 32.90697,
+				"longitude": 35.18798
+			}
+		},
+		"naturalRegion": {
+			"id": 242,
+			"name": "אזור כרמיאל"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 212,
+			"name": "אשכול רשויות גליל מערבי"
+		}
+	},
+	{
 		"id": 823,
 		"name": "בר גיורא",
 		"nameEn": "Bar Giyyora",
@@ -9992,6 +10304,41 @@
 		"localAuthoritiesCluster": {
 			"id": 410,
 			"name": "אשכול רשויות השרון"
+		}
+	},
+	{
+		"id": 1740,
+		"name": "גבעת חביבה",
+		"district": {
+			"id": 3,
+			"name": "חיפה"
+		},
+		"subDistrict": {
+			"id": 32,
+			"name": "חדרה"
+		},
+		"municipalStatus": {
+			"id": 14,
+			"name": "מועצה אזורית מנשה"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 202270,
+				"north": 707120
+			},
+			"wgs84": {
+				"latitude": 32.45805,
+				"longitude": 35.02172
+			}
+		},
+		"naturalRegion": {
+			"id": 324,
+			"name": "אזור חדרה"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
 		}
 	},
 	{
@@ -18622,6 +18969,41 @@
 		}
 	},
 	{
+		"id": 1772,
+		"name": "ים המלח - בתי מלון",
+		"district": {
+			"id": 6,
+			"name": "הדרום"
+		},
+		"subDistrict": {
+			"id": 62,
+			"name": "באר שבע"
+		},
+		"municipalStatus": {
+			"id": 51,
+			"name": "מועצה אזורית תמר"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 234500,
+				"north": 567490
+			},
+			"wgs84": {
+				"latitude": 31.19885,
+				"longitude": 35.36236
+			}
+		},
+		"naturalRegion": {
+			"id": 624,
+			"name": "אזור ים המלח"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		}
+	},
+	{
 		"id": 753,
 		"name": "ינוב",
 		"nameEn": "Yanuv",
@@ -25825,6 +26207,45 @@
 		}
 	},
 	{
+		"id": 1722,
+		"name": "מגדל תפן",
+		"district": {
+			"id": 2,
+			"name": "הצפון"
+		},
+		"subDistrict": {
+			"id": 24,
+			"name": "עכו"
+		},
+		"municipalStatus": {
+			"id": 99,
+			"name": "מועצה מקומית"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 226150,
+				"north": 764490
+			},
+			"wgs84": {
+				"latitude": 32.97547,
+				"longitude": 35.27612
+			}
+		},
+		"naturalRegion": {
+			"id": 243,
+			"name": "אזור יחיעם"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 212,
+			"name": "אשכול רשויות גליל מערבי"
+		}
+	},
+	{
 		"id": 3751,
 		"name": "מגדלים",
 		"nameEn": "Migdalim",
@@ -28868,6 +29289,567 @@
 		}
 	},
 	{
+		"id": 1767,
+		"name": "מפעלי אבשלו\"ם",
+		"district": {
+			"id": 6,
+			"name": "הדרום"
+		},
+		"subDistrict": {
+			"id": 62,
+			"name": "באר שבע"
+		},
+		"municipalStatus": {
+			"id": 41,
+			"name": "מועצה אזורית בני שמעון"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 177230,
+				"north": 594400
+			},
+			"wgs84": {
+				"latitude": 31.44088,
+				"longitude": 34.76032
+			}
+		},
+		"naturalRegion": {
+			"id": 621,
+			"name": "אזור גרר"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 620,
+			"name": "אשכול רשויות נגב מערבי"
+		}
+	},
+	{
+		"id": 1791,
+		"name": "מפעלי ברקן",
+		"district": {
+			"id": 7,
+			"name": "אזור יהודה ושומרון"
+		},
+		"subDistrict": {
+			"id": 73,
+			"name": "טול כרם"
+		},
+		"municipalStatus": {
+			"id": 72,
+			"name": "מועצה אזורית שומרון"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 211260,
+				"north": 667680
+			},
+			"wgs84": {
+				"latitude": 32.1025,
+				"longitude": 35.11767
+			}
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 710,
+			"name": "אשכול רשויות יהודה ושומרון"
+		}
+	},
+	{
+		"id": 1706,
+		"name": "מפעלי גליל עליון",
+		"district": {
+			"id": 2,
+			"name": "הצפון"
+		},
+		"subDistrict": {
+			"id": 21,
+			"name": "צפת"
+		},
+		"municipalStatus": {
+			"id": 1,
+			"name": "מועצה אזורית הגליל העליון"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 253730,
+				"north": 788710
+			},
+			"wgs84": {
+				"latitude": 33.19333,
+				"longitude": 35.57206
+			}
+		},
+		"naturalRegion": {
+			"id": 211,
+			"name": "עמק חולה"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 211,
+			"name": "אשכול רשויות גליל מזרחי"
+		}
+	},
+	{
+		"id": 1739,
+		"name": "מפעלי גרנות",
+		"district": {
+			"id": 3,
+			"name": "חיפה"
+		},
+		"subDistrict": {
+			"id": 32,
+			"name": "חדרה"
+		},
+		"municipalStatus": {
+			"id": 14,
+			"name": "מועצה אזורית מנשה"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 195930,
+				"north": 705670
+			},
+			"wgs84": {
+				"latitude": 32.44486,
+				"longitude": 34.95432
+			}
+		},
+		"naturalRegion": {
+			"id": 324,
+			"name": "אזור חדרה"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		}
+	},
+	{
+		"id": 1717,
+		"name": "מפעלי העמק (יזרעאל)",
+		"district": {
+			"id": 2,
+			"name": "הצפון"
+		},
+		"subDistrict": {
+			"id": 23,
+			"name": "יזרעאל"
+		},
+		"municipalStatus": {
+			"id": 9,
+			"name": "מועצה אזורית עמק יזרעאל"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 222380,
+				"north": 730000
+			},
+			"wgs84": {
+				"latitude": 32.6645,
+				"longitude": 35.23568
+			}
+		},
+		"naturalRegion": {
+			"id": 234,
+			"name": "עמק יזרעאל"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 213,
+			"name": "אשכול רשויות הגליל והעמקים"
+		}
+	},
+	{
+		"id": 1729,
+		"name": "מפעלי חבל מודיעים",
+		"district": {
+			"id": 4,
+			"name": "המרכז"
+		},
+		"subDistrict": {
+			"id": 43,
+			"name": "רמלה"
+		},
+		"municipalStatus": {
+			"id": 25,
+			"name": "מועצה אזורית חבל מודיעין"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 196350,
+				"north": 657320
+			},
+			"wgs84": {
+				"latitude": 32.00886,
+				"longitude": 34.95996
+			}
+		},
+		"naturalRegion": {
+			"id": 432,
+			"name": "אזור רמלה"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		}
+	},
+	{
+		"id": 1775,
+		"name": "מפעלי ים המלח(סדום)",
+		"district": {
+			"id": 6,
+			"name": "הדרום"
+		},
+		"subDistrict": {
+			"id": 62,
+			"name": "באר שבע"
+		},
+		"municipalStatus": {
+			"id": 51,
+			"name": "מועצה אזורית תמר"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 235170,
+				"north": 548820
+			},
+			"wgs84": {
+				"latitude": 31.03045,
+				"longitude": 35.36909
+			}
+		},
+		"naturalRegion": {
+			"id": 624,
+			"name": "אזור ים המלח"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		}
+	},
+	{
+		"id": 1753,
+		"name": "מפעלי כנות",
+		"district": {
+			"id": 6,
+			"name": "הדרום"
+		},
+		"subDistrict": {
+			"id": 61,
+			"name": "אשקלון"
+		},
+		"municipalStatus": {
+			"id": 33,
+			"name": "מועצה אזורית באר טוביה"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 177310,
+				"north": 634390
+			},
+			"wgs84": {
+				"latitude": 31.80153,
+				"longitude": 34.75945
+			}
+		},
+		"naturalRegion": {
+			"id": 611,
+			"name": "אזור מלאכי"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 420,
+			"name": "אשכול רשויות שורק דרומי"
+		}
+	},
+	{
+		"id": 1773,
+		"name": "מפעלי מישור רותם",
+		"district": {
+			"id": 6,
+			"name": "הדרום"
+		},
+		"subDistrict": {
+			"id": 62,
+			"name": "באר שבע"
+		},
+		"municipalStatus": {
+			"id": 51,
+			"name": "מועצה אזורית תמר"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 218260,
+				"north": 551820
+			},
+			"wgs84": {
+				"latitude": 31.05762,
+				"longitude": 35.19198
+			}
+		},
+		"naturalRegion": {
+			"id": 626,
+			"name": "הר הנגב הצפוני"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		}
+	},
+	{
+		"id": 1769,
+		"name": "מפעלי מעון",
+		"district": {
+			"id": 6,
+			"name": "הדרום"
+		},
+		"subDistrict": {
+			"id": 62,
+			"name": "באר שבע"
+		},
+		"municipalStatus": {
+			"id": 38,
+			"name": "מועצה אזורית אשכול"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 145740,
+				"north": 578210
+			},
+			"wgs84": {
+				"latitude": 31.2933,
+				"longitude": 34.43028
+			}
+		},
+		"naturalRegion": {
+			"id": 622,
+			"name": "אזור בשור"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 620,
+			"name": "אשכול רשויות נגב מערבי"
+		}
+	},
+	{
+		"id": 1701,
+		"name": "מפעלי נחם הרטוב",
+		"district": {
+			"id": 1,
+			"name": "ירושלים"
+		},
+		"subDistrict": {
+			"id": 11,
+			"name": "ירושלים"
+		},
+		"municipalStatus": {
+			"id": 26,
+			"name": "מועצה אזורית מטה יהודה"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 199010,
+				"north": 630560
+			},
+			"wgs84": {
+				"latitude": 31.76759,
+				"longitude": 34.98868
+			}
+		},
+		"naturalRegion": {
+			"id": 112,
+			"name": "שפלת יהודה"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		}
+	},
+	{
+		"id": 1761,
+		"name": "מפעלי צומת מלאכי",
+		"district": {
+			"id": 6,
+			"name": "הדרום"
+		},
+		"subDistrict": {
+			"id": 61,
+			"name": "אשקלון"
+		},
+		"municipalStatus": {
+			"id": 33,
+			"name": "מועצה אזורית באר טוביה"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 176430,
+				"north": 625710
+			},
+			"wgs84": {
+				"latitude": 31.72322,
+				"longitude": 34.75054
+			}
+		},
+		"naturalRegion": {
+			"id": 611,
+			"name": "אזור מלאכי"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 420,
+			"name": "אשכול רשויות שורק דרומי"
+		}
+	},
+	{
+		"id": 1776,
+		"name": "מפעלי צין - ערבה",
+		"district": {
+			"id": 6,
+			"name": "הדרום"
+		},
+		"subDistrict": {
+			"id": 62,
+			"name": "באר שבע"
+		},
+		"municipalStatus": {
+			"id": 54,
+			"name": "מועצה אזורית הערבה התיכונה"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 208510,
+				"north": 528190
+			},
+			"wgs84": {
+				"latitude": 30.84443,
+				"longitude": 35.09008
+			}
+		},
+		"naturalRegion": {
+			"id": 626,
+			"name": "הר הנגב הצפוני"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 610,
+			"name": "אשכול רשויות נגב מזרחי"
+		}
+	},
+	{
+		"id": 1711,
+		"name": "מפעלי צמח",
+		"district": {
+			"id": 2,
+			"name": "הצפון"
+		},
+		"subDistrict": {
+			"id": 22,
+			"name": "כנרת"
+		},
+		"municipalStatus": {
+			"id": 6,
+			"name": "מועצה אזורית עמק הירדן"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 255370,
+				"north": 734390
+			},
+			"wgs84": {
+				"latitude": 32.7035,
+				"longitude": 35.58752
+			}
+		},
+		"naturalRegion": {
+			"id": 221,
+			"name": "כנרות"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 214,
+			"name": "אשכול רשויות הכנרת והעמקים"
+		}
+	},
+	{
+		"id": 1719,
+		"name": "מפעלי שאן",
+		"district": {
+			"id": 2,
+			"name": "הצפון"
+		},
+		"subDistrict": {
+			"id": 23,
+			"name": "יזרעאל"
+		},
+		"municipalStatus": {
+			"id": 7,
+			"name": "מועצה אזורית עמק המעיינות"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 248950,
+				"north": 711430
+			},
+			"wgs84": {
+				"latitude": 32.49666,
+				"longitude": 35.51833
+			}
+		},
+		"naturalRegion": {
+			"id": 231,
+			"name": "עמק בית שאן"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 214,
+			"name": "אשכול רשויות הכנרת והעמקים"
+		}
+	},
+	{
 		"id": 3745,
 		"name": "מצדות יהודה",
 		"nameEn": "Mezadot Yehuda",
@@ -29536,6 +30518,232 @@
 		"localAuthoritiesCluster": {
 			"id": 213,
 			"name": "אשכול רשויות הגליל והעמקים"
+		}
+	},
+	{
+		"id": 1713,
+		"name": "מרכז אזורי כדורי",
+		"district": {
+			"id": 2,
+			"name": "הצפון"
+		},
+		"subDistrict": {
+			"id": 22,
+			"name": "כנרת"
+		},
+		"municipalStatus": {
+			"id": 3,
+			"name": "מועצה אזורית הגליל התחתון"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 238270,
+				"north": 734640
+			},
+			"wgs84": {
+				"latitude": 32.70618,
+				"longitude": 35.40516
+			}
+		},
+		"naturalRegion": {
+			"id": 222,
+			"name": "גליל תחתון מזרחי"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 214,
+			"name": "אשכול רשויות הכנרת והעמקים"
+		}
+	},
+	{
+		"id": 1708,
+		"name": "מרכז אזורי מרום הגליל",
+		"district": {
+			"id": 2,
+			"name": "הצפון"
+		},
+		"subDistrict": {
+			"id": 21,
+			"name": "צפת"
+		},
+		"municipalStatus": {
+			"id": 2,
+			"name": "מועצה אזורית מרום הגליל"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 241500,
+				"north": 766990
+			},
+			"wgs84": {
+				"latitude": 32.99781,
+				"longitude": 35.44038
+			}
+		},
+		"naturalRegion": {
+			"id": 212,
+			"name": "גליל עליון מזרחי"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 211,
+			"name": "אשכול רשויות גליל מזרחי"
+		}
+	},
+	{
+		"id": 1723,
+		"name": "מרכז אזורי משגב",
+		"district": {
+			"id": 2,
+			"name": "הצפון"
+		},
+		"subDistrict": {
+			"id": 24,
+			"name": "עכו"
+		},
+		"municipalStatus": {
+			"id": 56,
+			"name": "מועצה אזורית משגב"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 224560,
+				"north": 751520
+			},
+			"wgs84": {
+				"latitude": 32.85853,
+				"longitude": 35.25903
+			}
+		},
+		"naturalRegion": {
+			"id": 241,
+			"name": "אזור שפרעם"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 210,
+			"name": "אשכול רשויות בית הכרם הגלילי"
+		}
+	},
+	{
+		"id": 1747,
+		"name": "מרכז אזורי שוהם",
+		"district": {
+			"id": 4,
+			"name": "המרכז"
+		},
+		"subDistrict": {
+			"id": 43,
+			"name": "רמלה"
+		},
+		"municipalStatus": {
+			"id": 25,
+			"name": "מועצה אזורית חבל מודיעין"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 194580,
+				"north": 655310
+			},
+			"wgs84": {
+				"latitude": 31.9907,
+				"longitude": 34.94128
+			}
+		},
+		"naturalRegion": {
+			"id": 432,
+			"name": "אזור רמלה"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		}
+	},
+	{
+		"id": 1705,
+		"name": "מרכז כ\"ח",
+		"district": {
+			"id": 2,
+			"name": "הצפון"
+		},
+		"subDistrict": {
+			"id": 21,
+			"name": "צפת"
+		},
+		"municipalStatus": {
+			"id": 55,
+			"name": "מועצה אזורית מבואות החרמון"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 253580,
+				"north": 780640
+			},
+			"wgs84": {
+				"latitude": 33.12058,
+				"longitude": 35.57015
+			}
+		},
+		"naturalRegion": {
+			"id": 211,
+			"name": "עמק חולה"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 211,
+			"name": "אשכול רשויות גליל מזרחי"
+		}
+	},
+	{
+		"id": 1715,
+		"name": "מרכז מיר\"ב",
+		"district": {
+			"id": 3,
+			"name": "חיפה"
+		},
+		"subDistrict": {
+			"id": 32,
+			"name": "חדרה"
+		},
+		"municipalStatus": {
+			"id": 15,
+			"name": "מועצה אזורית חוף הכרמל"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 196920,
+				"north": 727950
+			},
+			"wgs84": {
+				"latitude": 32.64578,
+				"longitude": 34.96432
+			}
+		},
+		"naturalRegion": {
+			"id": 322,
+			"name": "אזור זכרון יעקב"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
 		}
 	},
 	{
@@ -30434,6 +31642,44 @@
 		}
 	},
 	{
+		"id": 1770,
+		"name": "נאות חובב",
+		"district": {
+			"id": 6,
+			"name": "הדרום"
+		},
+		"subDistrict": {
+			"id": 62,
+			"name": "באר שבע"
+		},
+		"municipalStatus": {
+			"id": 99,
+			"name": "מועצה מקומית"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 179510,
+				"north": 560490
+			},
+			"wgs84": {
+				"latitude": 31.13513,
+				"longitude": 34.78566
+			}
+		},
+		"previousNames": [
+			"רמת חובב"
+		],
+		"naturalRegion": {
+			"id": 623,
+			"name": "אזור באר שבע"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		}
+	},
+	{
 		"id": 408,
 		"name": "נאות מרדכי",
 		"nameEn": "Ne'ot Mordekhay",
@@ -31066,6 +32312,41 @@
 			"id": 320,
 			"group": "יישוב כפרי",
 			"form": "מושבים שיתופיים"
+		}
+	},
+	{
+		"id": 1702,
+		"name": "נווה אילן",
+		"district": {
+			"id": 1,
+			"name": "ירושלים"
+		},
+		"subDistrict": {
+			"id": 11,
+			"name": "ירושלים"
+		},
+		"municipalStatus": {
+			"id": 26,
+			"name": "מועצה אזורית מטה יהודה"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 208830,
+				"north": 634820
+			},
+			"wgs84": {
+				"latitude": 31.80614,
+				"longitude": 35.09229
+			}
+		},
+		"naturalRegion": {
+			"id": 111,
+			"name": "הרי יהודה"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
 		}
 	},
 	{
@@ -35057,6 +36338,45 @@
 		}
 	},
 	{
+		"id": 1762,
+		"name": "עד הלום",
+		"district": {
+			"id": 6,
+			"name": "הדרום"
+		},
+		"subDistrict": {
+			"id": 61,
+			"name": "אשקלון"
+		},
+		"municipalStatus": {
+			"id": 33,
+			"name": "מועצה אזורית באר טוביה"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 168150,
+				"north": 630080
+			},
+			"wgs84": {
+				"latitude": 31.76229,
+				"longitude": 34.66295
+			}
+		},
+		"naturalRegion": {
+			"id": 611,
+			"name": "אזור מלאכי"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 420,
+			"name": "אשכול רשויות שורק דרומי"
+		}
+	},
+	{
 		"id": 1199,
 		"name": "עדי",
 		"nameEn": "Adi",
@@ -35641,6 +36961,45 @@
 		"localAuthoritiesCluster": {
 			"id": 610,
 			"name": "אשכול רשויות נגב מזרחי"
+		}
+	},
+	{
+		"id": 1765,
+		"name": "עידן הנגב",
+		"district": {
+			"id": 6,
+			"name": "הדרום"
+		},
+		"subDistrict": {
+			"id": 62,
+			"name": "באר שבע"
+		},
+		"municipalStatus": {
+			"id": 41,
+			"name": "מועצה אזורית בני שמעון"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 179760,
+				"north": 587360
+			},
+			"wgs84": {
+				"latitude": 31.37748,
+				"longitude": 34.78721
+			}
+		},
+		"naturalRegion": {
+			"id": 623,
+			"name": "אזור באר שבע"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 620,
+			"name": "אשכול רשויות נגב מערבי"
 		}
 	},
 	{
@@ -38354,6 +39713,83 @@
 		"localAuthoritiesCluster": {
 			"id": 610,
 			"name": "אשכול רשויות נגב מזרחי"
+		}
+	},
+	{
+		"id": 1763,
+		"name": "פארק תעשיות ספירים",
+		"district": {
+			"id": 6,
+			"name": "הדרום"
+		},
+		"subDistrict": {
+			"id": 61,
+			"name": "אשקלון"
+		},
+		"municipalStatus": {
+			"id": 37,
+			"name": "מועצה אזורית שער הנגב"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 161450,
+				"north": 602830
+			},
+			"wgs84": {
+				"latitude": 31.51623,
+				"longitude": 34.59384
+			}
+		},
+		"naturalRegion": {
+			"id": 614,
+			"name": "אזור אשקלון"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 620,
+			"name": "אשכול רשויות נגב מערבי"
+		}
+	},
+	{
+		"id": 1745,
+		"name": "פארק תעשיות עמק חפר",
+		"district": {
+			"id": 4,
+			"name": "המרכז"
+		},
+		"subDistrict": {
+			"id": 41,
+			"name": "השרון"
+		},
+		"municipalStatus": {
+			"id": 16,
+			"name": "מועצה אזורית עמק חפר"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 190390,
+				"north": 700900
+			},
+			"wgs84": {
+				"latitude": 32.40172,
+				"longitude": 34.89556
+			}
+		},
+		"previousNames": [
+			"מפעלי חפר"
+		],
+		"naturalRegion": {
+			"id": 411,
+			"name": "מערב השרון"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
 		}
 	},
 	{
@@ -41280,6 +42716,45 @@
 		}
 	},
 	{
+		"id": 1768,
+		"name": "קריית חינוך מרחבים",
+		"district": {
+			"id": 6,
+			"name": "הדרום"
+		},
+		"subDistrict": {
+			"id": 62,
+			"name": "באר שבע"
+		},
+		"municipalStatus": {
+			"id": 42,
+			"name": "מועצה אזורית מרחבים"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 161790,
+				"north": 580470
+			},
+			"wgs84": {
+				"latitude": 31.31459,
+				"longitude": 34.59871
+			}
+		},
+		"naturalRegion": {
+			"id": 622,
+			"name": "אזור בשור"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 620,
+			"name": "אשכול רשויות נגב מערבי"
+		}
+	},
+	{
 		"id": 2300,
 		"name": "קריית טבעון",
 		"nameEn": "Qiryat Tiv'on",
@@ -41711,6 +43186,80 @@
 		"localAuthoritiesCluster": {
 			"id": 211,
 			"name": "אשכול רשויות גליל מזרחי"
+		}
+	},
+	{
+		"id": 1766,
+		"name": "קרית חינוך עזתה",
+		"district": {
+			"id": 6,
+			"name": "הדרום"
+		},
+		"subDistrict": {
+			"id": 62,
+			"name": "באר שבע"
+		},
+		"municipalStatus": {
+			"id": 39,
+			"name": "מועצה אזורית שדות נגב"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 161260,
+				"north": 593350
+			},
+			"wgs84": {
+				"latitude": 31.43072,
+				"longitude": 34.59239
+			}
+		},
+		"naturalRegion": {
+			"id": 621,
+			"name": "אזור גרר"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 620,
+			"name": "אשכול רשויות נגב מערבי"
+		}
+	},
+	{
+		"id": 1746,
+		"name": "קרית תעופה",
+		"district": {
+			"id": 4,
+			"name": "המרכז"
+		},
+		"subDistrict": {
+			"id": 43,
+			"name": "רמלה"
+		},
+		"municipalStatus": {
+			"id": 25,
+			"name": "מועצה אזורית חבל מודיעין"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 191850,
+				"north": 655100
+			},
+			"wgs84": {
+				"latitude": 31.98874,
+				"longitude": 34.9124
+			}
+		},
+		"naturalRegion": {
+			"id": 432,
+			"name": "אזור רמלה"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
 		}
 	},
 	{
@@ -46191,6 +47740,41 @@
 		}
 	},
 	{
+		"id": 1793,
+		"name": "שלומציון",
+		"district": {
+			"id": 7,
+			"name": "אזור יהודה ושומרון"
+		},
+		"subDistrict": {
+			"id": 75,
+			"name": "ירדן-יריחו"
+		},
+		"municipalStatus": {
+			"id": 75,
+			"name": "מועצה אזורית ערבות הירדן"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 246750,
+				"north": 667430
+			},
+			"wgs84": {
+				"latitude": 32.09994,
+				"longitude": 35.49366
+			}
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 710,
+			"name": "אשכול רשויות יהודה ושומרון"
+		}
+	},
+	{
 		"id": 366,
 		"name": "שמיר",
 		"nameEn": "Shamir",
@@ -47520,6 +49104,10 @@
 			}
 		},
 		"population": 467875,
+		"mergedLocalityNames": [
+			"תל אביב",
+			"יפו"
+		],
 		"naturalRegion": {
 			"id": 511,
 			"name": "אזור תל אביב"
@@ -47528,6 +49116,45 @@
 			"id": 130,
 			"group": "יישוב עירוני",
 			"form": "יישובים יהודיים 499,999-200,000 תושבים"
+		}
+	},
+	{
+		"id": 1707,
+		"name": "תל חי (מכללה)",
+		"district": {
+			"id": 2,
+			"name": "הצפון"
+		},
+		"subDistrict": {
+			"id": 21,
+			"name": "צפת"
+		},
+		"municipalStatus": {
+			"id": 1,
+			"name": "מועצה אזורית הגליל העליון"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 254360,
+				"north": 793390
+			},
+			"wgs84": {
+				"latitude": 33.23551,
+				"longitude": 35.57899
+			}
+		},
+		"naturalRegion": {
+			"id": 211,
+			"name": "עמק חולה"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 211,
+			"name": "אשכול רשויות גליל מזרחי"
 		}
 	},
 	{
@@ -48246,6 +49873,414 @@
 			"id": 310,
 			"group": "יישוב כפרי",
 			"form": "מושבים"
+		}
+	},
+	{
+		"id": 1744,
+		"name": "תעשיון בינימין",
+		"district": {
+			"id": 4,
+			"name": "המרכז"
+		},
+		"subDistrict": {
+			"id": 42,
+			"name": "פתח תקווה"
+		},
+		"municipalStatus": {
+			"id": 20,
+			"name": "מועצה אזורית דרום השרון"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 195790,
+				"north": 676010
+			},
+			"wgs84": {
+				"latitude": 32.1774,
+				"longitude": 34.95357
+			}
+		},
+		"naturalRegion": {
+			"id": 421,
+			"name": "דרום השרון"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		}
+	},
+	{
+		"id": 1709,
+		"name": "תעשיון דלתון",
+		"district": {
+			"id": 2,
+			"name": "הצפון"
+		},
+		"subDistrict": {
+			"id": 21,
+			"name": "צפת"
+		},
+		"municipalStatus": {
+			"id": 2,
+			"name": "מועצה אזורית מרום הגליל"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 245150,
+				"north": 770210
+			},
+			"wgs84": {
+				"latitude": 33.02677,
+				"longitude": 35.47953
+			}
+		},
+		"previousNames": [
+			"דלתון"
+		],
+		"naturalRegion": {
+			"id": 212,
+			"name": "גליל עליון מזרחי"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 211,
+			"name": "אשכול רשויות גליל מזרחי"
+		}
+	},
+	{
+		"id": 1741,
+		"name": "תעשיון השרון",
+		"district": {
+			"id": 4,
+			"name": "המרכז"
+		},
+		"subDistrict": {
+			"id": 41,
+			"name": "השרון"
+		},
+		"municipalStatus": {
+			"id": 18,
+			"name": "מועצה אזורית לב השרון"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 192780,
+				"north": 686920
+			},
+			"wgs84": {
+				"latitude": 32.27571,
+				"longitude": 34.92135
+			}
+		},
+		"naturalRegion": {
+			"id": 411,
+			"name": "מערב השרון"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		}
+	},
+	{
+		"id": 1750,
+		"name": "תעשיון חבל יבנה",
+		"district": {
+			"id": 4,
+			"name": "המרכז"
+		},
+		"subDistrict": {
+			"id": 44,
+			"name": "רחובות"
+		},
+		"municipalStatus": {
+			"id": 29,
+			"name": "מועצה אזורית חבל יבנה"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 169000,
+				"north": 636210
+			},
+			"wgs84": {
+				"latitude": 31.81761,
+				"longitude": 34.6716
+			}
+		},
+		"naturalRegion": {
+			"id": 441,
+			"name": "אזור רחובות"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 420,
+			"name": "אשכול רשויות שורק דרומי"
+		}
+	},
+	{
+		"id": 1742,
+		"name": "תעשיון חצב",
+		"district": {
+			"id": 4,
+			"name": "המרכז"
+		},
+		"subDistrict": {
+			"id": 42,
+			"name": "פתח תקווה"
+		},
+		"municipalStatus": {
+			"id": 20,
+			"name": "מועצה אזורית דרום השרון"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 196130,
+				"north": 663780
+			},
+			"wgs84": {
+				"latitude": 32.06711,
+				"longitude": 34.95748
+			}
+		},
+		"naturalRegion": {
+			"id": 422,
+			"name": "אזור פתח תקווה"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		}
+	},
+	{
+		"id": 1754,
+		"name": "תעשיון מבצע",
+		"district": {
+			"id": 6,
+			"name": "הדרום"
+		},
+		"subDistrict": {
+			"id": 61,
+			"name": "אשקלון"
+		},
+		"municipalStatus": {
+			"id": 33,
+			"name": "מועצה אזורית באר טוביה"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 176750,
+				"north": 630960
+			},
+			"wgs84": {
+				"latitude": 31.77058,
+				"longitude": 34.75368
+			}
+		},
+		"naturalRegion": {
+			"id": 611,
+			"name": "אזור מלאכי"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 420,
+			"name": "אשכול רשויות שורק דרומי"
+		}
+	},
+	{
+		"id": 1794,
+		"name": "תעשיון מיתרים",
+		"district": {
+			"id": 7,
+			"name": "אזור יהודה ושומרון"
+		},
+		"subDistrict": {
+			"id": 77,
+			"name": "חברון"
+		},
+		"municipalStatus": {
+			"id": 78,
+			"name": "מועצה אזורית הר חברון"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 200540,
+				"north": 586820
+			},
+			"wgs84": {
+				"latitude": 31.37314,
+				"longitude": 35.00567
+			}
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 710,
+			"name": "אשכול רשויות יהודה ושומרון"
+		}
+	},
+	{
+		"id": 1749,
+		"name": "תעשיון צריפין",
+		"district": {
+			"id": 4,
+			"name": "המרכז"
+		},
+		"subDistrict": {
+			"id": 43,
+			"name": "רמלה"
+		},
+		"municipalStatus": {
+			"id": 40,
+			"name": "מועצה אזורית שדות דן"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 186260,
+				"north": 652270
+			},
+			"wgs84": {
+				"latitude": 31.96307,
+				"longitude": 34.85335
+			}
+		},
+		"naturalRegion": {
+			"id": 432,
+			"name": "אזור רמלה"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		}
+	},
+	{
+		"id": 1755,
+		"name": "תעשיון ראם",
+		"district": {
+			"id": 6,
+			"name": "הדרום"
+		},
+		"subDistrict": {
+			"id": 61,
+			"name": "אשקלון"
+		},
+		"municipalStatus": {
+			"id": 35,
+			"name": "מועצה אזורית יואב"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 179940,
+				"north": 629540
+			},
+			"wgs84": {
+				"latitude": 31.75789,
+				"longitude": 34.78742
+			}
+		},
+		"naturalRegion": {
+			"id": 611,
+			"name": "אזור מלאכי"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 420,
+			"name": "אשכול רשויות שורק דרומי"
+		}
+	},
+	{
+		"id": 1792,
+		"name": "תעשיון שח\"ק",
+		"district": {
+			"id": 7,
+			"name": "אזור יהודה ושומרון"
+		},
+		"subDistrict": {
+			"id": 71,
+			"name": "ג'נין"
+		},
+		"municipalStatus": {
+			"id": 72,
+			"name": "מועצה אזורית שומרון"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 216990,
+				"north": 708880
+			},
+			"wgs84": {
+				"latitude": 32.47405,
+				"longitude": 35.17827
+			}
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 710,
+			"name": "אשכול רשויות יהודה ושומרון"
+		}
+	},
+	{
+		"id": 1714,
+		"name": "תעשיות גליל תחתון",
+		"district": {
+			"id": 2,
+			"name": "הצפון"
+		},
+		"subDistrict": {
+			"id": 22,
+			"name": "כנרת"
+		},
+		"municipalStatus": {
+			"id": 3,
+			"name": "מועצה אזורית הגליל התחתון"
+		},
+		"coordinates": {
+			"itm": {
+				"east": 243660,
+				"north": 743420
+			},
+			"wgs84": {
+				"latitude": 32.78524,
+				"longitude": 35.46288
+			}
+		},
+		"naturalRegion": {
+			"id": 222,
+			"name": "גליל תחתון מזרחי"
+		},
+		"typeOfLocality": {
+			"id": 520,
+			"group": "\"מקום\"",
+			"form": "מוקד תעסוקה"
+		},
+		"localAuthoritiesCluster": {
+			"id": 214,
+			"name": "אשכול רשויות הכנרת והעמקים"
 		}
 	},
 	{

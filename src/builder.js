@@ -37,6 +37,12 @@ function getLocalityMergers(localityChanges) {
 
   mergers = mergers.filter(c => c.type.includes('איחוד'));
 
+  // add missing mergers
+  mergers.push(
+    { 'localityId': 5000, 'previousLocalityName': 'תל אביב' },
+    { 'localityId': 5000, 'previousLocalityName': 'יפו' }
+  );
+
   return mergers;
 
 }
@@ -59,8 +65,6 @@ async function createFinalFiles({ localities: allLocalities, localityCodes, loca
     .filter(locality => !(locality.name.includes('*') && locality.name.includes('מחנה ')))
     // no non-populated places that are missing a municipal status
     .filter(locality => (locality.population || locality.municipalStatus?.id))
-    // no working centers
-    .filter(locality => (locality.typeOfLocalityId !== 520))
     // no regional places
     .filter(locality => (locality.typeOfLocalityId !== 530));
 
